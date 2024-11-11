@@ -16,7 +16,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![img](./screenshot.jpg)
+![Screenshot 2024-11-11 at 17-06-42 Frontend Mentor Recipe page](https://github.com/user-attachments/assets/0eb5c49b-8067-47e6-be57-6c08051344f4)
 
 ### Links
 
